@@ -5,8 +5,7 @@
 <font size="20" color="#00FF7F"><p>cennai</font></p>
 <font size="20" color="#0000ff"><p>Near Accenture </font></p>
 <font size="20" color="#808000">tamil naidu<p></font></p>
-<font size="20" color="#8FBC8F">advanced maharnavami wishes<p></font></p>
-<font size="20" color="#8FBC8F">advanced durgastami wishes<p></font></p>
-<font size="20" color="#8FBC8F">advanced dussera wishes<p></font></p>
-</body>
+<font size="20" color="#808000">pin-600119<p></font></p>
+
+<body>
 </html>
